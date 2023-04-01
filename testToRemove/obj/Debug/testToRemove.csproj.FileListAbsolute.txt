@@ -1,0 +1,13 @@
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\testToRemove.exe.config
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\testToRemove.exe
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\testToRemove.pdb
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.exe
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.pdb
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\MathNet.Numerics.dll
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\System.ValueTuple.dll
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\MathNet.Numerics.xml
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\bin\Debug\System.ValueTuple.xml
+C:\Users\Andrew\source\repos\testToRemove\testToRemove\obj\Debug\testToRemove.csproj.CopyComplete
