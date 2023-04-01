@@ -116,12 +116,14 @@ class Program
         if (A.RowCount != b.Count)
         {
             Console.WriteLine("Розмірність матриці A та вектора b не збігається.");
+            Console.ReadLine();
             return;
         }
         // Перевірка на симетричність та додатню визначеність матриці A
         if (!A.Equals(A.Transpose()) || !A.Evd().EigenValues.All(z => z.Magnitude > 0))
         {
             Console.WriteLine("Матриця A не є симетричною та додатньо визначеною. Розкладу Холецького не існує.");
+            Console.ReadLine();
             return;
         }
 
@@ -152,5 +154,6 @@ class Program
         Console.WriteLine("Визначник матриці A:");
         Console.WriteLine($"{det:F4}");
         Console.ReadLine();
+
     }
 }
